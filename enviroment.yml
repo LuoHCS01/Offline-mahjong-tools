@@ -1,0 +1,7 @@
+dependences:
+  - python=3
+  - pip:
+    - json
+    - math
+    - os
+    - copy
